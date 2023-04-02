@@ -1,1 +1,4 @@
-•	Replicated the methodology described in the research paper "Forecasting risk gene discovery in autism with machine learning and genome-scale data" by Brueggeman et al. (2018) and identified a gap in the methodology and took the initiative to replicate and improve the analysis.
+ "Forecasting risk gene discovery in autism with machine learning and genome-scale data" by Brueggeman et al. (2018) 
+ 
+ # Link
+ https://www.researchgate.net/publication/339882020_Forecasting_risk_gene_discovery_in_autism_with_machine_learning_and_genome-scale_data
