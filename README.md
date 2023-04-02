@@ -1,4 +1,4 @@
-# Autism_detection_genome_data
+# -Comparative-Analysis-of-Boosting-Algorithms-for-Autism-Detection-using-Genome-Data-
 
 ![image](https://user-images.githubusercontent.com/47351536/229377428-1598b6ad-e47c-4b02-95ac-9e964cce29ce.png)
 
