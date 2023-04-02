@@ -2,11 +2,17 @@
 
 ![image](https://user-images.githubusercontent.com/47351536/229377428-1598b6ad-e47c-4b02-95ac-9e964cce29ce.png)
 
-This Projetc involves analyzing genome data for detecting autism. In our study, we have used a random forest base model, and then applied three different algorithms - GBM, Adaboost, and XGBoost - to perform a comparative analysis of their performance in autism detection.
+This Project involves analyzing genome data for detecting autism. In our study, we have used a random forest base model, and then applied three different algorithms - GBM, Adaboost, and XGBoost - to perform a comparative analysis of their performance in autism detection.
+
+
+
+# Our Goal:
+
 ![image](https://user-images.githubusercontent.com/47351536/229377464-9487c3dd-5193-4b82-947c-b005d8e58110.png)
 
 Our goal is to determine which algorithm provides the best accuracy in detecting autism, and to identify any potential areas of improvement. We believe that our study will contribute to the field of autism detection and help improve the accuracy and efficiency of future diagnostic tools.
 
+# Our project: 
 To start our project, we performed some preprocessing and feature engineering on the genome data. This included removing irrelevant features, normalizing the data, and selecting relevant genetic markers. We then used statistical techniques to identify genetic variations that are associated with autism.
 
 After this, we trained a random forest model to detect autism from the genetic markers. Random forest is a popular machine learning algorithm for classification tasks, particularly when dealing with large and complex datasets like genome data. The random forest algorithm creates multiple decision trees using subsets of the features and observations, then combines their predictions to make a final prediction.
