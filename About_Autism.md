@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/47351536/229376274-ca4516a1-c3c6-42c7-ac6a-7284c81d297c.png)
+
 Autism Spectrum Disorder (ASD) is a complex neurodevelopmental disorder that affects communication, social interaction, and behavior. It is typically diagnosed in early childhood, and its prevalence has been increasing in recent years. According to the Centers for Disease Control and Prevention (CDC), approximately 1 in 68 children in the United States has ASD.
 
 Early detection of ASD is crucial for timely intervention and better outcomes. However, ASD diagnosis is challenging because it is based on a range of behavioral and developmental assessments, and there are no medical tests that can definitively diagnose the disorder. Diagnosis typically involves a comprehensive evaluation by a team of healthcare professionals, including a pediatrician, psychologist, and speech-language pathologist.
